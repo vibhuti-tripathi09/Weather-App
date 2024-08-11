@@ -1,7 +1,9 @@
-Overview
+**Overview**
+
 This Weather App is a dynamic and responsive application developed using HTML, CSS, and JavaScript. Created as part of my internship project at Bharat Intern, this app provides real-time weather information for any location. It leverages APIs to fetch and display weather data, offering users an intuitive interface to check current conditions, forecasts, and more.
 
-Description
+**Description**
+
 The Weather App is designed to be a straightforward and user-friendly tool for accessing weather information. During my internship, I built this project to demonstrate my skills in front-end development and my ability to integrate third-party APIs. 
 
 The application allows users to:
@@ -10,13 +12,15 @@ Search for Weather: Enter any city to retrieve the current weather conditions.
 View Detailed Information: See details such as temperature, humidity, wind speed, and weather conditions.
 Responsive Design: The app is fully responsive and adapts to different screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 
-Features
+**Features**
+
 Real-Time Weather Data: Fetches and displays current weather conditions for any location.
 Weather Icons: Visual representation of weather conditions using icons.
 Search Functionality: Easy-to-use search bar to find weather information for different cities.
 Responsive Layout: Adapts to various screen sizes for a consistent user experience.
 
-Technologies Used
+**Technologies Used**
+
 Frontend: HTML, CSS, JavaScript
 APIs: OpenWeatherMap API
 
